@@ -3,7 +3,7 @@ package com.xsis;
 import java.util.Scanner;
 
 // konversi temperatur dari farenheit ke kelvin
-// rumus : kelvin = (farenheit + 459.67) /
+// rumus : kelvin = (farenheit + 459.67) / 1.8
 public class Practice08 {
     static final double cf= 459.67;
     static final double cd= 1.8;
