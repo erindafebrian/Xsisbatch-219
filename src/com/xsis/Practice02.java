@@ -10,6 +10,6 @@ public class Practice02 {
         String firstName=scan.nextLine();
         System.out.print("Last Name : ");
         String lastName= scan.nextLine();
-        System.out.println("FullName : "+firstName +lastName);
+        System.out.println("FullName : "+firstName+" "+lastName);
     }
 }

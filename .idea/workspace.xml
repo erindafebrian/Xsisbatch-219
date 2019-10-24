@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3133cdc-cfba-4a01-ab35-ed544bc1a39a" name="Default Changelist" comment="" />
+    <list default="true" id="b3133cdc-cfba-4a01-ab35-ed544bc1a39a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Practice06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Practice07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Practice08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Practice01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Practice01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Practice02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Practice02.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +26,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Sd7iT1N6HNQDfaRl2FbVChqHhx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,10 +46,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice05">
+  <component name="RunManager" selected="Application.Practice07">
     <configuration name="Practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.Practice01" />
       <module name="batch219" />
+      <option name="PROGRAM_PARAMETERS" value="Hello Xsis Batch219" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xsis.*" />
@@ -68,10 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Practice04" />
+    <configuration name="Practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Practice06" />
       <module name="batch219" />
-      <option name="PROGRAM_PARAMETERS" value="Hello Xsis Academy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xsis.*" />
@@ -82,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Practice05" />
+    <configuration name="Practice07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Practice07" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
@@ -99,16 +117,16 @@
       <item itemvalue="Application.Practice01" />
       <item itemvalue="Application.Practice02" />
       <item itemvalue="Application.Practice03" />
-      <item itemvalue="Application.Practice04" />
-      <item itemvalue="Application.Practice05" />
+      <item itemvalue="Application.Practice06" />
+      <item itemvalue="Application.Practice07" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice05" />
-        <item itemvalue="Application.Practice01" />
-        <item itemvalue="Application.Practice04" />
-        <item itemvalue="Application.Practice03" />
+        <item itemvalue="Application.Practice07" />
+        <item itemvalue="Application.Practice06" />
         <item itemvalue="Application.Practice02" />
+        <item itemvalue="Application.Practice01" />
+        <item itemvalue="Application.Practice03" />
       </list>
     </recent_temporary>
   </component>
@@ -125,28 +143,39 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/xsis/Practice03.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/xsis/Practice03.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="6" />
+          <line>10</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/xsis/Practice03.java</url>
           <line>11</line>
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/xsis/Practice03.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="9" />
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsis/Practice03.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
