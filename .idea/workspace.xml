@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3133cdc-cfba-4a01-ab35-ed544bc1a39a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/quiz/quiz9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Practice09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/homework/nomor7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/Practice07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Practice07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/Practice08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Practice08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/xsis/Practice09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Practice09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Practice09.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +36,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Sd7iT1N6HNQDfaRl2FbVChqHhx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -51,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Practice09">
-    <configuration name="Practice09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Practice09" />
+  <component name="RunManager" selected="Application.coba">
+    <configuration name="coba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.coba" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.*" />
+          <option name="PATTERN" value="com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quiz.quiz4" />
+    <configuration name="nomor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.nomor1" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quiz.*" />
+          <option name="PATTERN" value="com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quiz.quiz6" />
+    <configuration name="nomor5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.nomor5" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quiz.*" />
+          <option name="PATTERN" value="com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quiz.quiz8" />
+    <configuration name="nomor6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.nomor6" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quiz.*" />
+          <option name="PATTERN" value="com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.quiz.quiz9" />
+    <configuration name="nomor7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.nomor7" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.quiz.*" />
+          <option name="PATTERN" value="com.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +122,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.quiz9" />
-      <item itemvalue="Application.quiz8" />
-      <item itemvalue="Application.quiz4" />
-      <item itemvalue="Application.quiz6" />
-      <item itemvalue="Application.Practice09" />
+      <item itemvalue="Application.nomor5" />
+      <item itemvalue="Application.nomor6" />
+      <item itemvalue="Application.nomor7" />
+      <item itemvalue="Application.nomor1" />
+      <item itemvalue="Application.coba" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Practice09" />
-        <item itemvalue="Application.quiz6" />
-        <item itemvalue="Application.quiz4" />
-        <item itemvalue="Application.quiz8" />
-        <item itemvalue="Application.quiz9" />
+        <item itemvalue="Application.coba" />
+        <item itemvalue="Application.nomor1" />
+        <item itemvalue="Application.nomor7" />
+        <item itemvalue="Application.nomor6" />
+        <item itemvalue="Application.nomor5" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +156,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

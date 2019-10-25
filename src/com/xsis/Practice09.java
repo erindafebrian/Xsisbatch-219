@@ -27,7 +27,5 @@ public class Practice09 {
 
         total = digit1+digit2+digit3+digit4;
         System.out.println("Total modulus : " +total);
-
-
     }
 }
