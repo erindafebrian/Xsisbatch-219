@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3133cdc-cfba-4a01-ab35-ed544bc1a39a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/batch219/com/homework/nomor5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/homework/nomor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/homework/nomor1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/homework/nomor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/homework/nomor2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/homework/nomor5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/homework/nomor5.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +40,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.nomor5">
-    <configuration name="coba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.coba" />
+  <component name="RunManager" selected="Application.if04">
+    <configuration name="If01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.Condition.If01" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.*" />
+          <option name="PATTERN" value="com.xsis.day2.Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nomor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.nomor1" />
+    <configuration name="hint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.pr02.hint" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.*" />
+          <option name="PATTERN" value="com.homework.pr02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nomor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.nomor2" />
+    <configuration name="if04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.day2.Condition.if04" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.*" />
+          <option name="PATTERN" value="com.xsis.day2.Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nomor3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.nomor3" />
+    <configuration name="nomor18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.pr02.nomor18" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.*" />
+          <option name="PATTERN" value="com.homework.pr02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nomor5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.homework.nomor5" />
+    <configuration name="nomor20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.pr02.nomor20" />
       <module name="batch219" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.homework.*" />
+          <option name="PATTERN" value="com.homework.pr02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,19 +107,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.nomor1" />
-      <item itemvalue="Application.coba" />
-      <item itemvalue="Application.nomor2" />
-      <item itemvalue="Application.nomor3" />
-      <item itemvalue="Application.nomor5" />
+      <item itemvalue="Application.nomor20" />
+      <item itemvalue="Application.nomor18" />
+      <item itemvalue="Application.hint" />
+      <item itemvalue="Application.If01" />
+      <item itemvalue="Application.if04" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.nomor5" />
-        <item itemvalue="Application.nomor3" />
-        <item itemvalue="Application.nomor2" />
-        <item itemvalue="Application.nomor1" />
-        <item itemvalue="Application.coba" />
+        <item itemvalue="Application.if04" />
+        <item itemvalue="Application.If01" />
+        <item itemvalue="Application.hint" />
+        <item itemvalue="Application.nomor20" />
+        <item itemvalue="Application.nomor18" />
       </list>
     </recent_temporary>
   </component>
