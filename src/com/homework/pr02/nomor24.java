@@ -13,13 +13,13 @@ public class nomor24 {
         if (total<30){
             System.out.println("Sorry there is no discount for your total amount order");
         } else if (total >= 30 && total < 70){
-            discount = total*d1 ;
+            discount = total - (total*d1) ;
             System.out.println("Your discount is : " + discount);
         }else if (total >= 70 && total < 150){
-            discount = total *d2;
+            discount = total- (total *d2);
             System.out.println("Your discount is : " + discount);
         }else  {
-            discount = total *d3;
+            discount = total - (total*d3);
             System.out.println("Your discount is : " + discount);
         }
     }

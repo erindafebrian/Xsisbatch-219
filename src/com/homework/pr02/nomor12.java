@@ -7,7 +7,7 @@ public class nomor12 {
     public static void main(String[] args) {
         int waktu, acc1, acc2, jarak1, jarak2, selisihJarak;
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter the time (same both of them) : ");
+        System.out.println("Enter the time (same both of t hem) : ");
         waktu = scan.nextInt();
         System.out.println("Enter the first car (A) acceleration : ");
         acc1 = scan.nextInt();

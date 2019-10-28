@@ -6,13 +6,13 @@ import java.util.Scanner;
 
 public class nomor07 {
     public static void main(String[] args) {
-        double a, b, c, a1, b1, c1, a2, b2, c2;
+        double a, b, c;
         Scanner scan = new Scanner(System.in);
         System.out.print("Input the first integer (a) : ");
         a = scan.nextInt();
         System.out.print("Input the second integer (b): ");
         b = scan.nextInt();
-        System.out.print("Input the third integer (c)/ the longest : ");
+        System.out.print("Input the third integer (c) or the longest : ");
         c = scan.nextInt();
 
        if (a == Math.sqrt(Math.pow(c,2) - Math.pow(b,2)) &&  b == Math.sqrt(Math.pow(c,2) - Math.pow(a,2)) &&

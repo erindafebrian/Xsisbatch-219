@@ -8,14 +8,15 @@ public class nomor22 {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the type of Vehicle: ");
         vehicles =scan.next();
+        vehicles = vehicles.toUpperCase();
         switch (vehicles){
-            case "m":
+            case "M":
                 System.out.println("$1");
                 break;
-            case "c":
+            case "C":
                 System.out.println("$2");
                 break;
-            case "t":
+            case "T":
                 System.out.println("$4");
                 break;
             default:

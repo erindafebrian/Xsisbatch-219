@@ -4,18 +4,19 @@ import java.util.Scanner;
 
 public class pr22 {
     public static void main(String[] args) {
-        char vehicle;
+        String vehicle;
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your vehicle: ");
-        vehicle=scan.next().charAt(0);
+        vehicle=scan.next();
+        vehicle = vehicle.toUpperCase();
         switch (vehicle){
-            case 'm':
+            case "M":
                 System.out.println("$1");
                 break;
-            case 'c':
+            case "C":
                 System.out.println("$2");
                 break;
-            case 't':
+            case "T":
                 System.out.println("$4");
                 break;
             default:

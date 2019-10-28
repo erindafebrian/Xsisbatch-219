@@ -16,7 +16,7 @@ public class nomor10 {
         if (jam > 40) {
             bayar = (gaji*2);
             bayar = bayar - (bayar*tunj);
-            System.out.println("The gross pay after works more : " + bayar );
+            System.out.println("The net pay after works more : " + bayar );
         } else if (jam < 40) {
             System.out.println("Sorry your time for working is not enough");
         } else {

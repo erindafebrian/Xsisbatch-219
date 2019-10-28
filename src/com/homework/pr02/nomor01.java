@@ -10,7 +10,7 @@ public class nomor01 {
         angka=scan.nextInt();
         hasil = angka%6;
 
-        if (hasil == 0){
+        if (hasil == 0 && hasil!=0){
             System.out.println("The number is multiple of 6" );
             System.out.println("Because the modulus devided by 6 is: " +hasil);
 

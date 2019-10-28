@@ -13,7 +13,7 @@ public class nomor06 {
         System.out.print("Masukkan the third length: ");
         angka3 = scan.nextInt();
         if(angka1<(angka2+angka3)){
-            System.out.println("bilangan yang anda maukkan memungkinkan panjang - panjang segitiga");
+            System.out.println("bilangan yang anda masukkan memungkinkan panjang - panjang segitiga");
         } else {
             System.out.println("bilangan yang anda masukkan tidak memungkinkan menjadi panjang - panjang segitiga");
         }
